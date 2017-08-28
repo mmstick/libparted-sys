@@ -1,0 +1,9 @@
+[package]
+name = "libparted-sys"
+version = "0.1.0"
+authors = ["Jeremy Soller <jackpot51@gmail.com>"]
+
+[build-dependencies]
+bindgen = "0.30.0"
+
+[dependencies]
